@@ -18,7 +18,7 @@ const Navbar = () => {
         </ul>
     </div>
     <div className='nav-login-cart'>
-        <Link to='/login'><button>Login</button></Link>
+        <Link to='/login'><button className='btn btn-dark'>Login</button></Link>
          <img src=""></img>
     </div>
     </div>
